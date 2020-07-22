@@ -64,3 +64,8 @@ Code
 ![image](https://user-images.githubusercontent.com/68596059/88149684-0993fc80-cc1e-11ea-989e-c28a06036d24.png)
 
 
+Code(graph plot)
+
+![image](https://user-images.githubusercontent.com/68596059/88150021-78715580-cc1e-11ea-946f-0b0e432481e6.png)
+
+
