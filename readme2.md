@@ -15,11 +15,8 @@ Lets first import some useful library like numpy , pandas,matplotlib. I use pypl
 
 code
 
-import numpy as np
+![image](https://user-images.githubusercontent.com/68596059/88143353-b23d5e80-cc14-11ea-9d45-7e05685c4c57.png)
 
-import matplotlib.pyplot as plt
-
-import pandas as pd
 
 Output
 
