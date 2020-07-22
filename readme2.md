@@ -83,3 +83,10 @@ Confusion Matrix
 
 ![image](https://user-images.githubusercontent.com/68596059/88155779-25030580-cc26-11ea-9e4f-f5f61bc81894.png)
 
+
+##Support Vector Classifier
+In this model we classify one data point based on kernels.So score value depends on kernel. Thats why i will plot agraph of score with different kernel like linear,poly,rbf and sigmoid and check whenn do i achieve the maximum score.At first  i will import SVC  from sklearn.svm . Then i will train dataset on different kernel and plot graph.I will use s_score array to store the score with different kernel.
+
+Code
+
+
