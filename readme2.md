@@ -77,3 +77,5 @@ Output
 From the above picture , it is clear that  the maximum score is achived for the 8 neighbors. So we will predict test dataset for neighbors value 8.And the maximum score is 87%.
 After that i will construct a confusion matrix.
 
+![image](https://user-images.githubusercontent.com/68596059/88155381-a4dca000-cc25-11ea-82e1-c6321ecdc946.png)
+
