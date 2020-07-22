@@ -61,4 +61,6 @@ In this model we classify a data based on k nearest data point. so score value v
 
 Code
 
+![image](https://user-images.githubusercontent.com/68596059/88149684-0993fc80-cc1e-11ea-989e-c28a06036d24.png)
+
 
