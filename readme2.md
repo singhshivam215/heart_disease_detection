@@ -17,8 +17,8 @@ code
 
 ![image](https://user-images.githubusercontent.com/68596059/88143353-b23d5e80-cc14-11ea-9d45-7e05685c4c57.png)
 
-
 Output
+
 ![image](https://user-images.githubusercontent.com/68596059/88143652-37287800-cc15-11ea-8e02-6f10e0ecaf46.png)
 
 
