@@ -65,3 +65,23 @@ thal        303 non-null int64
 target      303 non-null int64
 dtypes: float64(1), int64(13)
 memory usage: 33.2 KB
+
+Out[2]: 
+array([[<matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BB79860>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BBED8D0>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BC20E80>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BC59470>],
+       [<matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BC88A20>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BCC3048>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BA55518>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BD17B00>],
+       [<matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BD17B38>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BD85668>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BDB6C18>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BDF3208>],
+       [<matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BE257B8>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BE55D68>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BE93358>,
+        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BEC3908>]],
+      dtype=object)
+￼
