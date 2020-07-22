@@ -39,3 +39,9 @@ Out[2]:
       
 ￼![image](https://user-images.githubusercontent.com/68596059/88142208-b9fc0380-cc12-11ea-9b1f-4f6607fcd092.png)
 
+## Data Processing
+After that, i need to convert some categorical variable into dummy variable.For that , i will use get_dummies method.and then i will use StanderdScaler() from sklearn to scale my dataset.
+
+Code
+
+
