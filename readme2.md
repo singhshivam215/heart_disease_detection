@@ -54,3 +54,11 @@ Next, i will import train_test_split to split the dataset into train and test da
 Code 
 
 ![image](https://user-images.githubusercontent.com/68596059/88147581-0ba88c00-cc1b-11ea-855c-6c96aeff62e3.png)
+
+
+## K Neighbors Classifier
+In this model we classify a data based on k nearest data point. so score value varies with k.Thats why i will plot a graph of score with different values of k and check when do i achive the best score. At first i import KNeighborsClassifier from sklearn.neighbors . then I will use k_score array to store the score for different k values. After that i will plot the graph.
+
+Code
+
+
