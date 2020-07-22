@@ -44,4 +44,5 @@ After that, i need to convert some categorical variable into dummy variable.For 
 
 Code
 
+![image](https://user-images.githubusercontent.com/68596059/88146505-98eae100-cc19-11ea-9b9d-638cb6769f63.png)
 
