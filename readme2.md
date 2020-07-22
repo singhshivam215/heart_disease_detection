@@ -19,12 +19,8 @@ code
 
 
 Output
+![image](https://user-images.githubusercontent.com/68596059/88143652-37287800-cc15-11ea-8e02-6f10e0ecaf46.png)
 
-In [1]: import numpy as np
-
-   ...: import matplotlib.pyplot as plt
-   
-   ...: import pandas as pd
 
 ## Import dataset and dataset analysis
 Then dataset is loaded into the variable dataset.After that dataset is analyzed by by using info(), describe() methods and plot a histogram by using hiist() method.
