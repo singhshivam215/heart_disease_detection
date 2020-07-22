@@ -103,3 +103,4 @@ Output
 from the abbove graph , i clearly see that the maximum score is achieved by rbf kernel.So i will predict the dataset in rbf kernel mode  And then construct a confusion matrix.
 Code
 
+![image](https://user-images.githubusercontent.com/68596059/88180206-ab314300-cc4a-11ea-8fb9-057dcda31311.png)
