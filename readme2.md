@@ -12,9 +12,12 @@ Lets first import some useful library like numpy , pandas,matplotlib. I use pypl
 *numpy* It can be utilised for mathematical operation on arrays such as trigonometric ,statistical ,and algebric operation.
 *pandas-* It is use for data manipulation and analysis.
 *matplot.pyplot-* It is a plotting library in python.
+
 ###code
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import pandas as pd
 
 ###Output
