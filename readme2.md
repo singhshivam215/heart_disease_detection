@@ -34,24 +34,8 @@ Output
 ![image](https://user-images.githubusercontent.com/68596059/88144809-211bb700-cc17-11ea-8e24-34fc5dd5b1a8.png)
 
 Out[2]: 
-array([[<matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BB79860>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BBED8D0>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BC20E80>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BC59470>],
-       [<matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BC88A20>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BCC3048>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BA55518>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BD17B00>],
-       [<matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BD17B38>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BD85668>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BDB6C18>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BDF3208>],
-       [<matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BE257B8>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BE55D68>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BE93358>,
-        <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BEC3908>]],
-      dtype=object)
-      prinstscreen()
+![image](https://user-images.githubusercontent.com/68596059/88145210-b5861980-cc17-11ea-866b-3e43ec7e3777.png)
+
       
 ￼![image](https://user-images.githubusercontent.com/68596059/88142208-b9fc0380-cc12-11ea-9b1f-4f6607fcd092.png)
 
