@@ -28,3 +28,40 @@ In [1]: import numpy as np
    ...: import matplotlib.pyplot as plt
    
    ...: import pandas as pd
+
+## Import dataset and dataset analysis
+Then dataset is loaded into the variable dataset.After that dataset is analyzed by by using info(), describe() methods and plot a histogram by using hiist() method.
+
+code
+
+dataset = pd.read_csv('datasets_33180_43520_heart.csv')
+
+dataset.info()
+
+dataset.describe()
+
+dataset.hist()
+
+dataset = pd.read_csv('datasets_33180_43520_heart.csv')
+dataset.info()
+dataset.describe()
+dataset.hist()
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 303 entries, 0 to 302
+Data columns (total 14 columns):
+age         303 non-null int64
+sex         303 non-null int64
+cp          303 non-null int64
+trestbps    303 non-null int64
+chol        303 non-null int64
+fbs         303 non-null int64
+restecg     303 non-null int64
+thalach     303 non-null int64
+exang       303 non-null int64
+oldpeak     303 non-null float64
+slope       303 non-null int64
+ca          303 non-null int64
+thal        303 non-null int64
+target      303 non-null int64
+dtypes: float64(1), int64(13)
+memory usage: 33.2 KB
