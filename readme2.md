@@ -46,3 +46,11 @@ Code
 
 ![image](https://user-images.githubusercontent.com/68596059/88146505-98eae100-cc19-11ea-9b9d-638cb6769f63.png)
 
+
+## Train-test dataset split
+
+Next, i will import train_test_split to split the dataset into train and test dataset. then i will import all model of classification.
+
+Code 
+
+![image](https://user-images.githubusercontent.com/68596059/88147581-0ba88c00-cc1b-11ea-855c-6c96aeff62e3.png)
