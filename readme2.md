@@ -29,29 +29,9 @@ code
 
 ![image](https://user-images.githubusercontent.com/68596059/88143652-37287800-cc15-11ea-8e02-6f10e0ecaf46.png)
 
-dataset = pd.read_csv('datasets_33180_43520_heart.csv')
-dataset.info()
-dataset.describe()
-dataset.hist()
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 303 entries, 0 to 302
-Data columns (total 14 columns):
-age         303 non-null int64
-sex         303 non-null int64
-cp          303 non-null int64
-trestbps    303 non-null int64
-chol        303 non-null int64
-fbs         303 non-null int64
-restecg     303 non-null int64
-thalach     303 non-null int64
-exang       303 non-null int64
-oldpeak     303 non-null float64
-slope       303 non-null int64
-ca          303 non-null int64
-thal        303 non-null int64
-target      303 non-null int64
-dtypes: float64(1), int64(13)
-memory usage: 33.2 KB
+Output
+
+![image](https://user-images.githubusercontent.com/68596059/88144809-211bb700-cc17-11ea-8e24-34fc5dd5b1a8.png)
 
 Out[2]: 
 array([[<matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BB79860>,
