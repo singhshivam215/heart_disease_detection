@@ -27,13 +27,7 @@ Then dataset is loaded into the variable dataset.After that dataset is analyzed 
 
 code
 
-dataset = pd.read_csv('datasets_33180_43520_heart.csv')
-
-dataset.info()
-
-dataset.describe()
-
-dataset.hist()
+![image](https://user-images.githubusercontent.com/68596059/88143652-37287800-cc15-11ea-8e02-6f10e0ecaf46.png)
 
 dataset = pd.read_csv('datasets_33180_43520_heart.csv')
 dataset.info()
