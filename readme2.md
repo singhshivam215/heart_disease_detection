@@ -13,15 +13,18 @@ Lets first import some useful library like numpy , pandas,matplotlib. I use pypl
 *pandas-* It is use for data manipulation and analysis.
 *matplot.pyplot-* It is a plotting library in python.
 
-###code
+code
+
 import numpy as np
 
 import matplotlib.pyplot as plt
 
 import pandas as pd
 
-###Output
+Output
 
 In [1]: import numpy as np
+
    ...: import matplotlib.pyplot as plt
+   
    ...: import pandas as pd
