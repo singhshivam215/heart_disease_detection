@@ -84,4 +84,6 @@ array([[<matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BB79860>,
         <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BE93358>,
         <matplotlib.axes._subplots.AxesSubplot object at 0x0000015B1BEC3908>]],
       dtype=object)
+      prinstscreen()
+      
 ￼
