@@ -69,3 +69,8 @@ Code(graph plot)
 ![image](https://user-images.githubusercontent.com/68596059/88150021-78715580-cc1e-11ea-946f-0b0e432481e6.png)
 
 
+Output
+
+![image](https://user-images.githubusercontent.com/68596059/88150993-bc188f00-cc1f-11ea-86b6-34bf6fcd0a1c.png)
+
+
