@@ -89,4 +89,8 @@ In this model we classify one data point based on kernels.So score value depends
 
 Code
 
+![image](https://user-images.githubusercontent.com/68596059/88178474-14fc1d80-cc48-11ea-8572-73fc7e6d0e08.png)
+
+
+Code(Graph plot)
 
