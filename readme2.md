@@ -27,7 +27,7 @@ Then dataset is loaded into the variable dataset.After that dataset is analyzed 
 
 code
 
-![image](https://user-images.githubusercontent.com/68596059/88143652-37287800-cc15-11ea-8e02-6f10e0ecaf46.png)
+![image](https://user-images.githubusercontent.com/68596059/88156858-a14a1880-cc27-11ea-8ffe-3d872f6fe4ab.png)
 
 Output
 
