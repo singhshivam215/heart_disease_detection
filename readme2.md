@@ -79,3 +79,7 @@ After that i will construct a confusion matrix.
 
 ![image](https://user-images.githubusercontent.com/68596059/88155381-a4dca000-cc25-11ea-82e1-c6321ecdc946.png)
 
+Confusion Matrix
+
+![image](https://user-images.githubusercontent.com/68596059/88155779-25030580-cc26-11ea-9e4f-f5f61bc81894.png)
+
