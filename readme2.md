@@ -139,4 +139,10 @@ Confussion Matrix
 
 ![image](https://user-images.githubusercontent.com/68596059/88310628-84980880-cd2d-11ea-859b-9ebc46f1a114.png)
 
+## Random Forest Classifier
+
+In this model , we classify a datapoint based on multiple decision tree. So the number of tree is the key of accuracy. So i will plot the grapg of score with different n_estimator.At first i will import RandomForestClassifier sklearn.ensemble.Then i will train dataset with different n_estimator and store the score value into r_score array.After that i will plot graph and check when do i achieve max score.
+
+Code
+
 
