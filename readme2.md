@@ -154,4 +154,6 @@ Code (Graph plot)
 
 Output
 
+![image](https://user-images.githubusercontent.com/68596059/88316081-e0b25b00-cd34-11ea-851e-1efcdb5c1309.png)
+
 
