@@ -131,3 +131,6 @@ Output
 
 From the above graph ,  it is clear that maximum score will be achieved when max_feature =18. so i will predict the dataset with max_feature =18.and at last i will construct a confussion matrix.
 
+Code 
+
+![image](https://user-images.githubusercontent.com/68596059/88310084-e3a94d80-cd2c-11ea-931a-aa8b88a57b99.png)
