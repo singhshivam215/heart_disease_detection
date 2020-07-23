@@ -149,4 +149,6 @@ Code
 
 Code (Graph plot)
 
+![image](https://user-images.githubusercontent.com/68596059/88314143-1f92e180-cd32-11ea-8485-aba5d56a6b0c.png)
+
 
