@@ -157,3 +157,10 @@ Output
 ![image](https://user-images.githubusercontent.com/68596059/88316081-e0b25b00-cd34-11ea-851e-1efcdb5c1309.png)
 
 
+From the above graph ,it is clear thet maximum score will be achieve when n_estimator=100.Thats why i will predict entire dataset based on n_estimator=100 and construct a confussion matrix.
+
+Confussion Matrix
+
+![image](https://user-images.githubusercontent.com/68596059/88316284-31c24f00-cd35-11ea-8be3-1fcc5e345ae1.png)
+
+
