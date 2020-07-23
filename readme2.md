@@ -81,7 +81,7 @@ After that i will construct a confusion matrix.
 
 Confusion Matrix
 
-![image](https://user-images.githubusercontent.com/68596059/88155779-25030580-cc26-11ea-9e4f-f5f61bc81894.png)
+![image](https://user-images.githubusercontent.com/68596059/88260346-cf8c2e80-cce1-11ea-92e0-2aee201e0240.png)
 
 
 ## Support Vector Classifier
