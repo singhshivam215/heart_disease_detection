@@ -145,4 +145,6 @@ In this model , we classify a datapoint based on multiple decision tree. So the 
 
 Code
 
+![image](https://user-images.githubusercontent.com/68596059/88313638-70560a80-cd31-11ea-81e5-d48a131d90ea.png)
+
 
