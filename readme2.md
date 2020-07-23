@@ -122,5 +122,8 @@ Code
 
 Code(Graph Plot)
 
+![image](https://user-images.githubusercontent.com/68596059/88259259-918e0b00-ccdf-11ea-8b2f-a32787cc1c8f.png)
+
+
 
 
