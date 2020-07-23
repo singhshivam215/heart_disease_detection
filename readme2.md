@@ -71,7 +71,7 @@ Code(graph plot)
 
 Output
 
-![image](https://user-images.githubusercontent.com/68596059/88150993-bc188f00-cc1f-11ea-86b6-34bf6fcd0a1c.png)
+![image](https://user-images.githubusercontent.com/68596059/88260051-36f5ae80-cce1-11ea-8d47-86f684cbe1f3.png)
 
 
 From the above picture , it is clear that  the maximum score is achived for the 8 neighbors. So we will predict test dataset for neighbors value 8.And the maximum score is 87%.
