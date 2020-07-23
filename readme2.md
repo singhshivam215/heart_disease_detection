@@ -110,3 +110,5 @@ Confussion Matrix
 
 ![image](https://user-images.githubusercontent.com/68596059/88180573-33174d00-cc4b-11ea-9856-92f5e3a6a1a3.png)
 
+
+## Decision Tree Classifier 
