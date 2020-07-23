@@ -114,3 +114,13 @@ Confussion Matrix
 ## Decision Tree Classifier 
 
 In this model we classify one datapoint based on decision tree.And score depends on max feature.Thats why i will plot a graph of score with different max_feature.At first i will import DecisionTreeClassifier from sklearn.tree. Then i will train dataset in max_feature and append the score into d_tree array.After that we will plot graph.Then i will chechk when do i achieve the maximum score.
+
+
+Code 
+
+![image](https://user-images.githubusercontent.com/68596059/88259017-16c4f000-ccdf-11ea-9065-22abec215e9f.png)
+
+Code(Graph Plot)
+
+
+
