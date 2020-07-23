@@ -108,7 +108,7 @@ Code
 
 Confussion Matrix
 
-![image](https://user-images.githubusercontent.com/68596059/88180573-33174d00-cc4b-11ea-9856-92f5e3a6a1a3.png)
+![image](https://user-images.githubusercontent.com/68596059/88308584-d8edb900-cd2a-11ea-9dbc-729d2f27e7f5.png)
 
 
 ## Decision Tree Classifier 
