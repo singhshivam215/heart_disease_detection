@@ -99,7 +99,7 @@ Code(Graph plot)
 
 Output
 
-![image](https://user-images.githubusercontent.com/68596059/88179102-0104eb80-cc49-11ea-92e7-a7853b87c05f.png)
+![image](https://user-images.githubusercontent.com/68596059/88307945-1dc52000-cd2a-11ea-8b92-365a05b81298.png)
 
 from the abbove graph , i clearly see that the maximum score is achieved by rbf kernel.So i will predict the dataset in rbf kernel mode  And then construct a confusion matrix.
 Code
