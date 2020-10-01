@@ -10,4 +10,5 @@ Support Vector Classification
 Decision Tree Classification
 
 Random Forest Classification
-are used for medel building the program.
+are used for training and modeling the project.
+
